@@ -1,0 +1,7 @@
+setup.py
+TuModeloDeClientes_Choquehuanca.egg-info/PKG-INFO
+TuModeloDeClientes_Choquehuanca.egg-info/SOURCES.txt
+TuModeloDeClientes_Choquehuanca.egg-info/dependency_links.txt
+TuModeloDeClientes_Choquehuanca.egg-info/top_level.txt
+my_package/__init__.py
+my_package/client.py
